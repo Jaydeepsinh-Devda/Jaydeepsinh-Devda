@@ -4,9 +4,11 @@
 
 <img src="https://github.com/Jaydeepsinh-Devda/Jaydeepsinh-Devda/blob/main/banner.png" alt="Hello World">
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Jaydeepsinh-Devda/count.svg" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jaydeepinh-Devda&label=Profile%20views&color=0e75b6&style=flat" alt="parthbhuva97" /> </p>
 
 - 🔭 I’m currently working on **College Attendance System**
 
