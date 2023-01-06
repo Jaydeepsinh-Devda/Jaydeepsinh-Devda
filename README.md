@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **College Attendance System**
 
-- 🌱 I’m currently learning **Kotlin & React**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **djaybhai76@gmail.com**
 
