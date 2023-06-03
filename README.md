@@ -10,9 +10,9 @@
 </p>
 
 
-- 🔭 I’m currently working on **College Attendance System**
+- 🔭 I’m currently working on **My Notes FLutter Project**
 
-- 🌱 I’m currently learning **Kotlin** & **Jetpack Compose**
+- 🌱 I’m currently learning **FLutter** & **Dart Programming**
 
 - 📫 How to reach me **djaybhai76@gmail.com**
 
