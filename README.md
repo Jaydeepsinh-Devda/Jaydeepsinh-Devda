@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaydeepsinh Devda</h1>
-<h3 align="center">A passionate Android Developer from India</h3>
+<h3 align="center">A passionate Mobile Developer from India</h3>
 
 
 <img src="https://github.com/Jaydeepsinh-Devda/Jaydeepsinh-Devda/blob/main/banner.png" alt="Hello World">
