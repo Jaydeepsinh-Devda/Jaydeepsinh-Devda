@@ -10,7 +10,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **My Notes FLutter Project**
+- 🔭 I’m currently working on **Catalog FLutter Project**
 
 - 🌱 I’m currently learning **FLutter** & **Dart Programming**
 
