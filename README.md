@@ -10,8 +10,6 @@
 </p>
 
 
-- 🔭 I’m currently working on **Catalog FLutter Project**
-
 - 🌱 I’m currently learning **FLutter** & **Dart Programming**
 
 - 📫 How to reach me **djaybhai76@gmail.com**
