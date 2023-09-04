@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **FLutter** & **Dart Programming**
 
-- 📫 How to reach me **djaybhai76@gmail.com**
+- 📫 How to reach me **jaydeepsinhdevda.dev@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
