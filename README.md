@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Mobile Developer from India</h3>
 
 
-<img src="https://github.com/Jaydeepsinh-Devda/Jaydeepsinh-Devda/blob/main/banner.png" alt="Hello World">
+<img src="https://github.com/Jaydeepsinh-Devda/Jaydeepsinh-Devda/assets/88308058/553db6b0-f0db-4cd1-a360-58d0894bec60" alt="Hello World">
+
 
 <p align="center"> 
   Visitor count<br>
