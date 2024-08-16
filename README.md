@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaydeepsinh Devda</h1>
-<h3 align="center">A Passionate Flutter Mobile Developer from India</h3>
+<h3 align="center">A Passionate iOS & Flutter Mobile Developer from India</h3>
 
 
 <img src="https://github.com/Jaydeepsinh-Devda/Jaydeepsinh-Devda/assets/88308058/553db6b0-f0db-4cd1-a360-58d0894bec60" alt="Hello World" width="1200" height="300">
