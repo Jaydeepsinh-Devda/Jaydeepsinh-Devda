@@ -1,37 +1,113 @@
-<h1 align="center">Hi 👋, I'm Jaydeepsinh Devda</h1>
-<h3 align="center">A Passionate Flutter & iOS Mobile Developer from India</h3>
+<div align="center">
 
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Jaydeepsinh Devda
 
-<img src="https://github.com/Jaydeepsinh-Devda/Jaydeepsinh-Devda/assets/88308058/553db6b0-f0db-4cd1-a360-58d0894bec60" alt="Hello World" width="1200" height="300">
+### 🚀 Flutter Developer | ☕ Backend Explorer | 🏗️ System Design Enthusiast
 
+<img src="https://img.shields.io/badge/Focus-Mobile%20Development-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Learning-Backend%20%26%20System%20Design-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Location-Gujarat%2C%20India-orange?style=for-the-badge" />
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Jaydeepsinh-Devda/count.svg" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydeepsinh-devda/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaydeepsinhdevda.dev@gmail.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Jaydeepsinh-Devda&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
-- 🌱 I’m currently learning **FLutter** & **Dart Programming**
+</div>
 
-- 📫 How to reach me **jaydeepsinhdevda.dev@gmail.com**
+---
 
+## 💫 About Me
 
-<h3 align="left">Connect with me:</h3>
+- 🚀 **Software Engineer** specializing in **Flutter** mobile development with **1+ year** of experience
+- 🏢 Currently working at **Sunflower Lab**, building scalable cross-platform applications
+- 📚 Actively learning **Java** for backend development and **System Design** concepts
+- 🏗️ Passionate about **clean architecture**, **BLoC state management**, and **MVC patterns**
+- 🎯 Exploring **microservices**, **distributed systems**, and **scalable architectures**
+- 💼 Open to **Flutter Developer** opportunities and **collaborative projects**
+
+---
+
+## 🛠️ Tech Stack
+
+### **Mobile & Frontend**
 <p align="left">
-<a href="https://www.linkedin.com/in/jaydeepsinh-devda/" target="blank"><img align="center" src="https://github.com/Jaydeepsinh-Devda/Jaydeepsinh-Devda/assets/88308058/a6e29c07-c352-4473-8bbc-a3cd0b001e25" alt="jaydeepsinh devda" height="50" width="50" /></a>
-<a href="https://twitter.com/JR_Devda" target="blank"><img align="center" src="https://github.com/Jaydeepsinh-Devda/Jaydeepsinh-Devda/assets/88308058/91b8eccf-0291-4191-bd3a-9339af90382d" alt="jaydeepsinh_0501" height="50" width="50" /></a>
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift&theme=light" />
 </p>
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flutter.dev/" target="_blank"> <img src="https://github.com/Jaydeepsinh-Devda/Jaydeepsinh-Devda/assets/88308058/317271e1-7d1d-4fd7-b0a9-6e8cbd61b1b7" alt="Flutter" width="40" height="50"/> </a> 
-<a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/Jaydeepsinh-Devda/Jaydeepsinh-Devda/assets/88308058/6c40aa5e-f864-4b3e-9561-4db8a6905c7e" alt="Figma" width="35" height="50"/> </a> 
-<a href="https://firebase.google.com/" target="_blank""> <img src="https://github.com/Jaydeepsinh-Devda/Jaydeepsinh-Devda/assets/88308058/47387838-dfc9-4ada-b4ef-74104b068205" alt="Firebase" width="50" height="50"/> </a> 
-<a href="https://git-scm.com/" target="_blank" "> <img src="https://github.com/Jaydeepsinh-Devda/Jaydeepsinh-Devda/assets/88308058/a37c29f7-7e87-4a34-8dfa-e4004e03fab0" alt="Git" width="50" height="50"/> </a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://github.com/Jaydeepsinh-Devda/Jaydeepsinh-Devda/assets/88308058/ba5e82be-0ed9-4b27-8b53-b49a1072f094" alt="Java" width="50" height="50"/> </a> 
-<a href="https://kotlinlang.org" target="_blank"> <img src="https://github.com/Jaydeepsinh-Devda/Jaydeepsinh-Devda/assets/88308058/2ef93036-7eb8-4a9b-9edb-b12322e7190b" alt="Kotlin" width="50" height="50"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/Jaydeepsinh-Devda/Jaydeepsinh-Devda/assets/88308058/1834ef5a-3c22-40ef-8ef5-37e01c367ad2" alt="MySQL" width="50" height="50"/> </a> 
+### **Backend & System Design**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,fastapi&theme=light" />
 </p>
-<br/>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jaydeepsinh-Devda&theme=dark" alt="GitHub Streak" /></a>
+### **Databases & Cloud**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=firebase,supabase,mysql&theme=light" />
+</p>
+
+### **Tools & Technologies**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman,vercel&theme=light" />
+</p>
+
+### **Currently Learning**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,kafka,redis,docker,kubernetes&theme=light" />
+</p>
+
+## 🎓 Current Learning Path
+
+<div align="center">
+
+| Phase | Focus Area | Status |
+|-------|-----------|--------|
+| 📱 | Flutter Mastery | ✅ Proficient |
+| ☕ | Java Backend | 🔄 In Progress |
+| 🏗️ | System Design | 🔄 In Progress |
+| 🔄 | Microservices | 📋 Planned |
+| ☁️ | Cloud Architecture | 📋 Planned |
+
+</div>
+
+<div align="center">
+
+### 🚀 Building scalable systems, one line at a time!
+
+![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Learning-007396?style=flat-square&logo=java&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-Exploring-FF6B6B?style=flat-square&logo=architecture&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-Growing-4CAF50?style=flat-square&logo=fastapi&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Highlights
+
+- 💡 Built production-ready Flutter applications with **clean architecture**
+- 🔥 Experienced with **Firebase**, **Supabase**, and **RESTful APIs**
+- 🎨 Strong focus on **UI/UX** design principles using **Figma**
+- 📱 Proficient in **state management** (BLoC, GetX)
+- 🌐 Developing **backend services** with **Java**
+- 📖 Studying **system design**, **scalability**, and **distributed systems**
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydeepsinh-devda/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaydeepsinhdevda.dev@gmail.com)
+
+**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+</div>
+
+<div align="center">
+
+### ⭐ Show some love by starring some repositories!
+
+</div>
+
+
