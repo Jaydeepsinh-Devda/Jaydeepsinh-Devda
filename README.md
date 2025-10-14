@@ -100,7 +100,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydeepsinh-devda/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaydeepsinhdevda.dev@gmail.com)
 
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+**"I build what I understand, and I understand by building."**
 
 </div>
 
