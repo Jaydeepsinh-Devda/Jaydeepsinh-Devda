@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Location-Gujarat%2C%20India-orange?style=for-the-badge" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydeepsinh-devda/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaydeepsinhdevda.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=jaydeepsinhdevda.dev@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jaydeepsinh-Devda&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
